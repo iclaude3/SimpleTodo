@@ -32,11 +32,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building this app, I ran into a couple of build errors when first creating the application as well as when adding a dependency to the gradle.build file. I was able to solve these errors by doing a bit of research. The walkthrough video
+also took be about 3 trys to get perfect as popups from android studo interfered with the recording screen a couple of times.
+Ultimately, this was a great learning experience as I was able to learn a couple of tricks along the way that I was unaware of.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Claudia Bandali]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
